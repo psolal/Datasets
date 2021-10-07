@@ -1,0 +1,5 @@
+GHO (CODE),GHO (DISPLAY),GHO (URL),PUBLISHSTATE (CODE),PUBLISHSTATE (DISPLAY),PUBLISHSTATE (URL),YEAR (CODE),YEAR (DISPLAY),YEAR (URL),REGION (CODE),REGION (DISPLAY),REGION (URL),COUNTRY (CODE),STARTYEAR,ENDYEAR,COUNTRY (DISPLAY),COUNTRY (URL),Display Value,Numeric,Low,High,StdErr,StdDev,Comments
+#indicator+code,#indicator+name,#indicator+url,#status+code,#status+name,,,#date+year,,#region+code,#region+name,,#country+code,#date+year+start,#date+year+end,#country+name,,,#indicator+value+num,,,,,
+MDG_0000000032,Maternal mortality ratio (per 100 000 live births) - Country reported estimates,,PUBLISHED,Published,,2007,2007,,EUR,Europe,,FRA,2007,2007,France,,8,,,,,,
+MDG_0000000005,Contraceptive prevalence (%),https://www.who.int/data/gho/indicator-metadata-registry/imr-details/5,PUBLISHED,Published,,2005,2005,,EUR,Europe,,FRA,2005,2005,France,,76.6,76.60000,,,,,
+MDG_0000000005,Contraceptive prevalence (%),https://www.who.int/data/gho/indicator-metadata-registry/imr-details/5,PUBLISHED,Published,,2008,2008,,EUR,Europe,,FRA,2008,2008,France,,76.4,76.40000,,,,,

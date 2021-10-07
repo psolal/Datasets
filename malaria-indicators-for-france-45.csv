@@ -1,0 +1,13 @@
+GHO (CODE),GHO (DISPLAY),GHO (URL),PUBLISHSTATE (CODE),PUBLISHSTATE (DISPLAY),PUBLISHSTATE (URL),YEAR (CODE),YEAR (DISPLAY),YEAR (URL),REGION (CODE),REGION (DISPLAY),REGION (URL),WORLDBANKINCOMEGROUP (CODE),STARTYEAR,ENDYEAR,WORLDBANKINCOMEGROUP (DISPLAY),WORLDBANKINCOMEGROUP (URL),COUNTRY (CODE),COUNTRY (DISPLAY),COUNTRY (URL),Display Value,Numeric,Low,High,StdErr,StdDev,Comments
+#indicator+code,#indicator+name,#indicator+url,#status+code,#status+name,,,#date+year,,#region+code,#region+name,,,#date+year+start,#date+year+end,,,#country+code,#country+name,,,#indicator+value+num,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1991,1991,,EUR,Europe,,,1991,1991,,,FRA,France,,3950,3950.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,2000,2000,,EUR,Europe,,,2000,2000,,,FRA,France,,8056,8056.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1995,1995,,EUR,Europe,,,1995,1995,,,FRA,France,,3675,3675.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1992,1992,,EUR,Europe,,,1992,1992,,,FRA,France,,3430,3430.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1994,1994,,EUR,Europe,,,1994,1994,,,FRA,France,,3620,3620.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1997,1997,,EUR,Europe,,,1997,1997,,,FRA,France,,5377,5377.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1999,1999,,EUR,Europe,,,1999,1999,,,FRA,France,,7127,7127.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1990,1990,,EUR,Europe,,,1990,1990,,,FRA,France,,4270,4270.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1993,1993,,EUR,Europe,,,1993,1993,,,FRA,France,,3700,3700.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1996,1996,,EUR,Europe,,,1996,1996,,,FRA,France,,5109,5109.00000,,,,,
+MALARIA_15049,Malaria outpatient cases,,PUBLISHED,Published,,1998,1998,,EUR,Europe,,,1998,1998,,,FRA,France,,5940,5940.00000,,,,,
